@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoC#eDotNET\\CursoC#eDotNET.csproj": {}
+    "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoCeDotNET\\Aula0\\CursoC#eDotNET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoC#eDotNET\\CursoC#eDotNET.csproj": {
+    "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoCeDotNET\\Aula0\\CursoC#eDotNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoC#eDotNET\\CursoC#eDotNET.csproj",
+        "projectUniqueName": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoCeDotNET\\Aula0\\CursoC#eDotNET.csproj",
         "projectName": "CursoC#eDotNET",
-        "projectPath": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoC#eDotNET\\CursoC#eDotNET.csproj",
+        "projectPath": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoCeDotNET\\Aula0\\CursoC#eDotNET.csproj",
         "packagesPath": "C:\\Users\\nicolas.kiefer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoC#eDotNET\\obj\\",
+        "outputPath": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoCeDotNET\\Aula0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicolas.kiefer\\AppData\\Roaming\\NuGet\\NuGet.Config"
